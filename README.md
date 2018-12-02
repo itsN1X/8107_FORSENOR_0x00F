@@ -1,9 +1,9 @@
-Step 1. Implement your asset
-Step 2. Register your asset
-Step 3. Write tests for your asset
-Step 4. Compile and test everything
-Step 5. Create a well-formed Git commit
-Step 6. Submit
+ - [ ] Step 1. Implement your asset
+ - [ ] Step 2. Register your asset
+ - [ ] Step 3. Write tests for your asset
+ - [ ] Step 4. Compile and test everything
+ - [ ] Step 5. Create a well-formed Git commit
+ - [ ] Step 6. Submit
 
 # zzPrAf1N1X42aF🔥🔥🔥🔥
 

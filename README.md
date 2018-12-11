@@ -1,3 +1,24 @@
+$LUPX `LupX`
+
+# Lupecoin
+Listing application for the DEX titled `bisq` network.
+
+### Contributing branch
+WD0xFF
+
+### Original `bisq-assets`
+Master
+
+### Getting Started:
+`letsgetthispartystarted`
+
+###### Luser [N1X](https://github.com/itsN1X)
+
+*xE*
+
+----
+
+
 # Bisq
 
 [![Build Status](https://travis-ci.org/bisq-network/bisq.svg?branch=master)](https://travis-ci.org/bisq-network/bisq)

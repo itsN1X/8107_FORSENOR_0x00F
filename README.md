@@ -3,8 +3,10 @@ $LUPX `LupX`
 # Lupecoin
 Listing application for the DEX titled `bisq` network.
 
-### Contributing branch
-WD0xFF
+#Branch`es`
+
+### Contributing 
+WD0xFFF
 
 ### Original `bisq-assets`
 Master

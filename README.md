@@ -13,7 +13,7 @@
 * Shift into `WD0xFFF` branch
 * Run tests locally yourself if you have gradle installed on your sys
 * Open a new issue describing the review.
-* If all gies well we can proceed to step6: `Submit`
+* If all goes well we can proceed to step6: `Submit`
 
 ---
 ---
